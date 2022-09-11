@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md. Mostafizur Rahman
 - 👀 I’m interested in programming, problem solving and software development.
-- 🌱 I’m currently learning devops
+- 🌱 I’m currently learning devops and blockchain
 - 💞️ I’m looking to collaborate on Linux like big project.
 - 📫 How to reach me ... email: mrahman.cse32@gmail.com
 
